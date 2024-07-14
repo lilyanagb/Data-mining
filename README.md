@@ -1,4 +1,5 @@
 "# Data-mining" 
+
 0. Frog Leap Puzzle - dfs
 1. N puzzle - manhattan distance, ida* algorithm
 2. N queens - min conflicts
